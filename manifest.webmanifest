@@ -1,6 +1,6 @@
 {
- "name": "Replay de mercado",
- "short_name": "Replay",
+ "name": "KeyProfits Replay",
+ "short_name": "KeyProfits",
  "description": "Gráficos de oro con replay para backtesting",
  "start_url": "./",
  "scope": "./",
